@@ -3,6 +3,12 @@ This repository is a collection of gaming programs developed using the C++ graph
 
 ## Demos
 
+* ### Angry Birds Space Simulation
+
+<p align="center">
+<img src="https://github.com/adeepak7/Game-Development-in-CPP/blob/master/demos/angry_birds_gravity.gif">
+</p>
+
 * ### Tic Tac Toe Game
 
 <p align="center">
@@ -13,12 +19,6 @@ This repository is a collection of gaming programs developed using the C++ graph
 
 <p align="center">
 <img src="https://github.com/adeepak7/Game-Development-in-CPP/blob/master/demos/snake.gif">
-</p>
-
-* ### Angry Birds Space Simulation
-
-<p align="center">
-<img src="https://github.com/adeepak7/Game-Development-in-CPP/blob/master/demos/angry_birds_gravity.gif">
 </p>
 
 * ### Ping Pong Game
