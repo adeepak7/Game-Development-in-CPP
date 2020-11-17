@@ -1,5 +1,5 @@
 # Game-Development-in-CPP
-This repository is a collection of gaming programs developed using the C++ graphics library.
+This repository is a collection of single-threaded gaming programs developed using the C++ graphics library. I designed them in my first year B.Tech and would suggest any novice in CS to kick off their journey with such programs.
 
 ## Demos
 
